@@ -47,7 +47,7 @@ the encrypted message.
 <th>Sample Output</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 <pre>
 1 1
 Four score and seven years ago
@@ -60,7 +60,7 @@ that all men are created equal.
 0
 </pre>
 </td>
-<td>
+<td valign="top">
 <pre>
 'Four score and seven years ago'
 'uo rafhtre srbuohgf rohto  nhtsic noitentna n wen taoi,n'
