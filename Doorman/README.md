@@ -33,15 +33,33 @@ The maximum number of people Bruno can let into the club without losing track of
 <th>Sample Output</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 <pre>
 1
 MWWMWMMWM
 </pre>
 </td>
-<td>
+<td valign="top">
 <pre>
 9
+</pre>
+</td>
+</tr>
+
+<tr>
+<th>Sample Input 1</th>
+<th>Sample Output 2</th>
+</tr>
+<tr>
+<td valign="top">
+<pre>
+2
+WMMMMWWMMMWWMW
+</pre>
+</td>
+<td valign="top">
+<pre>
+8
 </pre>
 </td>
 </tr>
