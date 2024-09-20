@@ -24,13 +24,13 @@ Print the shortest representation of the list of bus numbers. Use the format as 
 <th>Sample Output</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 <pre>
 6
 180 141 174 143 142 175
 </pre>
 </td>
-<td>
+<td valign="top">
   141-143 174 175 180
 </td>
 </tr>
