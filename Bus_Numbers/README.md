@@ -31,7 +31,9 @@ Print the shortest representation of the list of bus numbers. Use the format as 
 </pre>
 </td>
 <td valign="top">
-  141-143 174 175 180
+<pre>
+141-143 174 175 180
+<pre>
 </td>
 </tr>
 </table>
