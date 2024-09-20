@@ -15,7 +15,9 @@ When we want to describe a node in the tree, we can do it by describing a path s
 left (‘L’) or right (‘R’).
 
 <p align="center">
-    <img src="https://github.com/7monaw/ProgrammingSolutions/blob/main/Numbers_on_a_Tree/heap.png" alt>
+    <img src="https://github.com/7monaw/ProgrammingSolutions/blob/main/Numbers_on_a_Tree/heap.png" alt
+        width="500" 
+        height="250"/>
     <br>
     <caption><b>Figure 1:</b> Labeled binary tree of height 3 with two marked paths from the root. Path LR leads to label 11 while path RRL leads to 2. The root has number 15.</caption>
 </p>
@@ -31,54 +33,40 @@ root. The letter ‘L’ denotes choosing the left child, and the letter ‘R’
 </p>
 
 <table>
-<tr>
-<th>Sample Input 1</th>
-<th>Sample Output 1</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
-3 LR
-</pre>
-</td>
-<td valign="top">
-<pre>
-11
-</pre>
-</td>
-</tr>
-
-<tr>
-<th>Sample Input 2</th>
-<th>Sample Output 2</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
-3 RRL
-</pre>
-</td>
-<td valign="top">
-<pre>
-2
-</pre>
-</td>
-</tr>
-
-<tr>
-<th>Sample Input 3</th>
-<th>Sample Output 3</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
-2 
-</pre>
-</td>
-<td valign="top">
-<pre>
-7
-</pre>
-</td>
-</tr>
+    <tr>
+        <th>Sample Input 1</th>
+        <th>Sample Output 1</th>
+    </tr>
+    <tr>
+        <td valign="top">
+            <pre>3 LR</pre>
+            </td>
+            <td valign="top">
+            <pre>11</pre>
+        </td>
+    </tr>
+    <tr>
+        <th>Sample Input 2</th>
+        <th>Sample Output 2</th>
+    </tr>
+    <tr>
+        <td valign="top">
+        <pre>3 RRL</pre>
+        </td>
+        <td valign="top">
+        <pre>2</pre>
+        </td>
+    </tr>
+    <tr>
+        <th>Sample Input 3</th>
+        <th>Sample Output 3</th>
+    </tr>
+    <tr>
+        <td valign="top">
+        <pre>2 </pre>
+        </td>
+        <td valign="top">
+        <pre>7</pre>
+        </td>
+    </tr>
 </table>
