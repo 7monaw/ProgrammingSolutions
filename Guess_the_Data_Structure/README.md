@@ -48,7 +48,7 @@ It can be more than one of the three data structures mentioned above.
 <th>Sample Output</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 <pre>
 6
 1 1
@@ -84,7 +84,7 @@ It can be more than one of the three data structures mentioned above.
 2 1
 </pre>
 </td>
-<td>
+<td valign="top">
 <pre>
 queue
 not sure
