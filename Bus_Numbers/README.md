@@ -1,6 +1,6 @@
 # Bus Numbers #
 
-***This problem was taken from the KTH Training, written by Lukáš Poláček***
+***This problem was taken from the KTH Training. It was written by Lukáš Poláček***
 
 <p align="justify">
 Your favourite public transport company LS (we cannot use their real name here, so we permuted the letters) wants to change signs on all bus stops. 
@@ -16,24 +16,20 @@ list of space separated integers between $1$ and $1000$, which denote the bus nu
 ### Output ###
 Print the shortest representation of the list of bus numbers. Use the format as in the example, separate numbers with single spaces and output them in sorted order.
 
-</p>
-
 <table>
-<tr>
-<th>Sample Input</th>
-<th>Sample Output</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+  <tr>
+    <th>Sample Input</th>
+    <th>Sample Output</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 6
 180 141 174 143 142 175
-</pre>
-</td>
-<td valign="top">
-<pre>
-141-143 174 175 180
-<pre>
-</td>
-</tr>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>141-143 174 175 180<pre>
+    </td>
+  </tr>
 </table>
