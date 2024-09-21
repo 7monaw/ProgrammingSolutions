@@ -1,6 +1,6 @@
 # Doorman #
 
-***This problem was taken from the Nordic Collegiate Programming Contest (NCPC) 2012, written by Andreas Björklund***
+***This problem was taken from the Nordic Collegiate Programming Contest (NCPC) 2012. It was written by Andreas Björklund***
 
 <p align="justify">
 The doorman Bruno at the popular night club Heaven is having a hard time fulfilling his duties. He was told by the owner that when the club is full, the 
@@ -28,39 +28,34 @@ The maximum number of people Bruno can let into the club without losing track of
 </p>
 
 <table>
-<tr>
-<th>Sample Input</th>
-<th>Sample Output</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+  <tr>
+    <th>Sample Input 1</th>
+    <th>Sample Output 1</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 1
 MWWMWMMWM
-</pre>
-</td>
-<td valign="top">
-<pre>
-9
-</pre>
-</td>
-</tr>
-
-<tr>
-<th>Sample Input 1</th>
-<th>Sample Output 2</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>9</pre>
+    </td>
+  </tr>
+  <tr>
+    <th>Sample Input 2</th>
+    <th>Sample Output 2</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 2
 WMMMMWWMMMWWMW
-</pre>
-</td>
-<td valign="top">
-<pre>
-8
-</pre>
-</td>
-</tr>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>8</pre>
+    </td>
+  </tr>
 </table>
