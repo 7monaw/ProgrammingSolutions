@@ -8,4 +8,5 @@ This repository is for reference purposes only. Please do not copy my code for p
     <img src="https://github.com/7monaw/ProgrammingSolutions/blob/main/grass.jpg" alt
         width="1000" 
         height="667"/>
+    <caption>Grass image by Ochir-Erdene Oyunmedeg, obtained on Unsplash</caption>
 </p>
