@@ -18,23 +18,21 @@ Output a line containing the minimum number of swaps required to arrange the stu
 </p>
 
 <table>
-<tr>
-<th>Sample Input</th>
-<th>Sample Output</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+  <tr>
+    <th>Sample Input</th>
+    <th>Sample Output</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 3
 3
 1
 2
-</pre>
-</td>
-<td valign="top">
-<pre>
-2
-</pre>
-</td>
-</tr>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>2</pre>
+    </td>
+  </tr>
 </table>
