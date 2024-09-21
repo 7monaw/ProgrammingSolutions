@@ -1,6 +1,6 @@
 # Guess the Data Structure #
 
-***This problem was taken from the Rujia Liu's Present 3: A datastructure contest celebrating the 100th anniversary of Tsinghua University, written by Rujia Liu***
+***This problem was taken from the Rujia Liu's Present 3: A datastructure contest celebrating the 100th anniversary of Tsinghua University. It was written by Rujia Liu***
 
 <p align="justify">
 There is a bag-like data structure, supporting two operations:
@@ -43,13 +43,13 @@ It can be more than one of the three data structures mentioned above.
 </p>
 
 <table>
-<tr>
-<th>Sample Input</th>
-<th>Sample Output</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+  <tr>
+    <th>Sample Input</th>
+    <th>Sample Output</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 6
 1 1
 1 2
@@ -82,17 +82,17 @@ It can be more than one of the three data structures mentioned above.
 2 4
 1
 2 1
-</pre>
-</td>
-<td valign="top">
-<pre>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>
 queue
 not sure
 impossible
 stack
 priority queue
 impossible
-</pre>
-</td>
-</tr>
+    </pre>
+    </td>
+  </tr>
 </table>
