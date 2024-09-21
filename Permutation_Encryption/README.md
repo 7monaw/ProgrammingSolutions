@@ -1,6 +1,6 @@
 # Permutation Encryption #
 
-***This problem was taken from the Baylor Competitive Learning course, written by Greg Hamerly***
+***This problem was taken from the Baylor Competitive Learning course. It was written by Greg Hamerly***
 
 <p align="justify">
 Working for the Texas Spy Agency, you are in charge of writing software for handling secure communications between your clients who wish to pass 
@@ -42,13 +42,13 @@ the encrypted message.
 </p>
 
 <table>
-<tr>
-<th>Sample Input</th>
-<th>Sample Output</th>
-</tr>
-<tr>
-<td valign="top">
-<pre>
+  <tr>
+    <th>Sample Input</th>
+    <th>Sample Output</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <pre>
 1 1
 Four score and seven years ago
 2 2 1
@@ -58,15 +58,15 @@ conceived in liberty and dedicated to the proposition
 10 5 10 8 1 3 6 4 7 2 9
 that all men are created equal.
 0
-</pre>
-</td>
-<td valign="top">
-<pre>
+    </pre>
+    </td>
+    <td valign="top">
+    <pre>
 'Four score and seven years ago'
 'uo rafhtre srbuohgf rohto  nhtsic noitentna n wen taoi,n'
 'cnoeciev di nilbreyt na dddeciaet dt ohtep orpsotiino  '
 ' mltaatlh rece ea nr luaeedqta   .      '
-</pre>
-</td>
-</tr>
+    </pre>
+    </td>
+  </tr>
 </table>
