@@ -1,6 +1,6 @@
 # Numbers on a Tree #
 
-***This problem was taken from the KTH Challenge 2014, written by Lukáš Poláček***
+***This problem was taken from the KTH Challenge 2014. It was written by Lukáš Poláček***
 
 <p align="justify">
 Lovisa is at KTH listening to Stefan Nilsson lecturing about perfect binary trees. “A perfect binary tree has a distinguished node called the root which is usually drawn
