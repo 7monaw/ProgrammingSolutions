@@ -1,6 +1,6 @@
-# Numbers on a Tree #
+# Pebbles Solitaire #
 
-***This problem was taken from the KTH Challenge 2014. It was written by Lukáš Poláček***
+***This problem was taken from the Swedish Championships 2000***
 
 <p align="justify">
 I bet you have seen a pebble solitaire game. You know the game where you are given a board with an arrangment of small cavities, initially all but one occupied
