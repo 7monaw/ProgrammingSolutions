@@ -1,6 +1,6 @@
 # Programming Solutions
 
-This repository is for reference purposes only. Please do not copy my code for personal or commercial purposes
+This repository is for reference purposes only. Please do not copyfor personal or commercial purposes
 
 ***Disclaimer: I did not write any of the questions, only the solutions. The origins of all of the questions are referenced***
 
