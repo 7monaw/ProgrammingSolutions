@@ -1,4 +1,4 @@
-# Pebbles Solitaire #
+# Pebbles Solitaire 1 #
 
 ***This problem was taken from the Swedish Championships 2000***
 
