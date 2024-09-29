@@ -8,8 +8,8 @@ below. Each order takes him a lot of time to figure out, but maybe you can help 
 
 <p align="center">
     <img src="https://github.com/7monaw/ProgrammingSolutions/blob/main/Restaurant_Orders/np_complete.png" alt
-        width="500" 
-        height="178"/>
+        width="600" 
+        height="400"/>
     <br>
     <caption><b>Figure 1:</b> Figure 1: Comic strip xkcd.com/287.</caption>
 </p>
