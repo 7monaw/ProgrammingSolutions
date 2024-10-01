@@ -1,3 +1,5 @@
+## This algorithm is O(2^n) ##
+
 import sys
 sys.setrecursionlimit(150000)
 
